@@ -1,32 +1,25 @@
 ---
-templateKey: 'blog-post'
-title: 'Again a stupid heading, God help me'
+templateKey: blog-post
+title: ما هو "لوريم إيبسوم" ؟
 date: 2017-10-05T15:04:10.000Z
+description: >+
+  لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس
+  المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال
+  المعيار للنص الشكلي منذ القرن الخامس عشر عندما قامت مطبعة مجهولة برص مجموعة من
+  الأحرف بشكل عشوائي أخذتها من نص، لتكوّن كتيّب بمثابة دليل أو مرجع شكلي لهذه
+  الأحرف. خمسة قرون من الزمن لم تقضي على هذا النص، بل انه حتى صار مستخدماً
+  وبشكله الأصلي في الطباعة والتنضيد الإلكتروني. انتشر بشكل كبير في ستينيّات هذا
+  القرن مع إصدار رقائق "ليتراسيت" (Letraset) البلاستيكية تحوي مقاطع من هذا النص،
+  وعاد لينتشر مرة أخرى مؤخراَ مع ظهور برامج النشر الإلكتروني مثل "ألدوس بايج
+  مايكر" (Aldus PageMaker) والتي حوت أيضاً على نسخ من نص لوريم إيبسوم.
+
 featuredpost: true
 featuredimage: /img/image6.png
-description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis, laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore voluptatum vel at ut temporibus.
 tags:
   - how to
   - tech
   - programming
 ---
+خلافاَ للإعتقاد السائد فإن لوريم إيبسوم ليس نصاَ عشوائياً، بل إن له جذور في الأدب اللاتيني الكلاسيكي منذ العام 45 قبل الميلاد، مما يجعله أكثر من 2000 عام في القدم. قام البروفيسور "ريتشارد ماك لينتوك" (Richard McClintock) وهو بروفيسور اللغة اللاتينية في جامعة هامبدن-سيدني في فيرجينيا بالبحث عن أصول كلمة لاتينية غامضة في نص لوريم إيبسوم وهي "consectetur"، وخلال تتبعه لهذه الكلمة في الأدب اللاتيني اكتشف المصدر الغير قابل للشك. فلقد اتضح أن كلمات نص لوريم إيبسوم تأتي من الأقسام 1.10.32 و 1.10.33 من كتاب "حول أقاصي الخير والشر" (de Finibus Bonorum et Malorum) للمفكر شيشيرون (Cicero) والذي كتبه في عام 45 قبل الميلاد. هذا الكتاب هو بمثابة مقالة علمية مطولة في نظرية الأخلاق، وكان له شعبية كبيرة في عصر النهضة. السطر الأول من لوريم إيبسوم "Lorem ipsum dolor sit amet.." يأتي من سطر في القسم 1.20.32 من هذا الكتاب.
 
-# h1: Heading
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque deleniti consequatur aliquid ab, accusamus praesentium vel eligendi ullam, at eaque animi facere harum consequuntur eius perferendis esse vero! Consequatur quia optio corporis id laudantium exercitationem, placeat ea delectus, non rem eveniet ullam! Magnam, natus numquam? Sit, amet. Modi, sit sed.
-
-![Chemex](/img/chemex.jpg)
-
-Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos. Totam voluptas praesentium enim aut maxime eaque repellat nostrum nesciunt necessitatibus, sint ipsum harum deleniti quaerat ullam ea ipsam minima. Eligendi maxime quis atque sed molestiae, esse eos tempora perferendis ex.
-
-## h2: Sub-heading
-
-Veniam, nobis. Quia saepe iure minus ab facere accusamus adipisci dolorem cupiditate non suscipit praesentium ipsam animi enim dolore ullam nihil omnis deleniti sequi eos sed ex, fugiat nam ipsum architecto. Consequatur quas similique inventore dolorem alias amet dignissimos vero distinctio nobis rem temporibus, qui assumenda et quam doloribus non. Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos
-
-### h3: sub-sub-heading
-
-Est omnis mollitia officiis optio dolores quae veritatis rerum autem iure cum reiciendis, delectus qui labore, excepturi illo obcaecati quibusdam asperiores illum. Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis, laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore voluptatum vel at ut temporibus. Qui dolorum voluptatem dolores, tenetur ex tempore eius doloribus fugiat quo esse officiis animi perspiciatis quod ea suscipit consequuntur earum nihil beatae distinctio? Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid velit doloribus sint atque quidem quo beatae error officiis cumque unde, odit voluptate consequatur veritatis, maxime dolor libero magni autem
-
-### h3: sub-sub heading
-
-Corrupti, consequatur voluptates impedit blanditiis unde et nisi doloremque eaque voluptas ullam repudiandae, obcaecati error! Maxime adipisci molestias corrupti sint nostrum, sit accusantium dolor distinctio ipsam culpa sapiente soluta labore officiis earum quas amet dolorum illum, dolorem ea harum minima non alias, odio quos. Tempora mollitia dolores, provident natus autem culpa quae officia, sunt vitae nesciunt et explicabo omnis nemo similique dolorum a, asperiores ea optio architecto quaerat dolor odio. Doloremque obcaecati, velit dolores et dignissimos facilis odit, nulla id ducimus eius esse quam quibusdam? Aspernatur nam, amet assumenda voluptate excepturi sit magni omnis similique doloribus maiores quo autem atque odit nesciunt mollitia ab quibusdam corporis iure totam dolorum laboriosam a. Ratione vitae voluptatibus neque
+للمهتمين قمنا بوضع نص لوريم إبسوم القياسي والمُستخدم منذ القرن الخامس عشر في الأسفل. وتم أيضاً توفير الأقسام 1.10.32 و 1.10.33 من "حول أقاصي الخير والشر" (de Finibus Bonorum et Malorum) لمؤلفه شيشيرون (Cicero) بصيغها الأصلية، مرفقة بالنسخ الإنكليزية لها والتي قام بترجمتها هـ.راكهام (H. Rackham) في عام 1914.
