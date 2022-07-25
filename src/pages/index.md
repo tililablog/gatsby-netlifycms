@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: إيزا تيليلى
-image: /img/home-jumbotron.jpg
+image: /img/image2.png
 heading: إيزا تيليلى
 subheading: "كاتبة و صانعة محتوى و شخصية عامة. يمكنني إلقاء نظرة على حياتي
   والحصول على قصة جيدة للخروج منها. إنها صورة شخص يحاول معرفة الأشياء. "
